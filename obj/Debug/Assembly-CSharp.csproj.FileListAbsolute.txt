@@ -1,0 +1,2 @@
+C:\Users\luoke\Documents\Unity\Number_Wizard_Console\NumberWizard Console\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\luoke\Documents\Unity\Number_Wizard_Console\NumberWizard Console\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
